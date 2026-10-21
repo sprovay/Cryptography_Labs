@@ -1,4 +1,3 @@
-* [ ]
 
 # Лабораторные работы по криптографии
 
@@ -23,7 +22,3 @@ dotnet run -- --deal-demo
 ```
 
 ## Тесты
-
-```bash
-dotnet test CryptographyLab1.Tests/CryptographyLab1.Tests.csproj
-```
